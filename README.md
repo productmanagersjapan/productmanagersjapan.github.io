@@ -1,6 +1,6 @@
 # productmanagersjapan.github.io
 
-## サイト
+## サイト更新のしかた
 
 [Jekyll](https://jekyllrb.com/)を使って構築しています。
 
