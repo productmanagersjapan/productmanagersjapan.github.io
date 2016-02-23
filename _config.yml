@@ -1,12 +1,10 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Product Managers Japan (PMJP)
+description: プロダクトマネジメント・オーナーシップに興味をもつ人々のコミュニティ
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: http://productmanagers.jp
 
-twitter_username:
-github_username:
+github_username: productmanagersjapan
 
 # Build settings
 markdown: kramdown
